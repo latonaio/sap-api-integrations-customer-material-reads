@@ -1,0 +1,31 @@
+{
+	"connection_key": "response",
+	"result": true,
+	"redis_key": "abcdefg",
+	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+	"CustomerMaterial": {
+		"Customer":"1",
+		"SalesOrganization":"0001",              
+		"DistributionChannel":"01",             
+		"Material":"21",                          
+		"MaterialByCustomer":"",                
+		"MaterialDescriptionByCustomer":"",     
+		"Plant":"",                             
+		"DeliveryPriority":"",                  
+		"MinDeliveryQtyInBaseUnit":"",          
+		"BaseUnit":"",                          
+		"PartialDeliveryIsAllowed":"",          
+		"MaxNmbrOfPartialDelivery":"",          
+		"UnderdelivTolrtdLmtRatioInPct":"",     
+		"OverdelivTolrtdLmtRatioInPct":"",      
+		"UnlimitedOverdeliveryIsAllowed":null,    
+		"CustomerMaterialItemUsage":"",         
+		"SalesUnit":"",                         
+		"SalesQtyToBaseQtyDnmntr":"",           
+		"SalesQtyToBaseQtyNmrtr":""            
+	},
+	"api_schema": "sap.s4.beh.customermaterial.v1.CustomerMaterial.Created.v1",
+	"accepter": ["CustomerMaterial"],
+	"customer_code": "1",
+	"deleted": false
+}

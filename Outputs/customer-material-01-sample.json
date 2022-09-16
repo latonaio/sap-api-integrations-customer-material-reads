@@ -1,0 +1,29 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-customer-material-reads/SAP_API_Caller/caller.go#L55",
+	"function": "sap-api-integrations-customer-material-reads/SAP_API_Caller.(*SAPAPICaller).CustomerMaterial",
+	"level": "INFO",
+	"message": [
+		{
+			"SalesOrganization": "0001",
+			"DistributionChannel": "01",
+			"Customer": "1",
+			"Material": "21",
+			"MaterialByCustomer": "21-1001",
+			"MaterialDescriptionByCustomer": "Test Customer Material",
+			"Plant": "0001",
+			"DeliveryPriority": "0",
+			"MinDeliveryQtyInBaseUnit": "1",
+			"BaseUnit": "PC",
+			"PartialDeliveryIsAllowed": "",
+			"MaxNmbrOfPartialDelivery": "0",
+			"UnderdelivTolrtdLmtRatioInPct": "0.0",
+			"OverdelivTolrtdLmtRatioInPct": "0.0",
+			"UnlimitedOverdeliveryIsAllowed": false,
+			"CustomerMaterialItemUsage": "",
+			"SalesUnit": "",
+			"SalesQtyToBaseQtyDnmntr": "0",
+			"SalesQtyToBaseQtyNmrtr": "0"
+		}
+	],
+	"time": "2022-09-16T17:19:37+09:00"
+}
